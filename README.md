@@ -2,6 +2,7 @@ Django Social Media Website
 A full-stack social media platform built with Django, allowing users to connect, share, and interact.
 
 Features:
+
 User Authentication: Sign up, log in, and log out functionalities.
 
 Profile Management: Users can create and edit their profiles.
